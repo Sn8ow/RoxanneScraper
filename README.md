@@ -10,7 +10,7 @@ Some codes may not work so I added back to the menu again to get the latest code
 # Using
 [ ! ] Only Windows:
 
-1.Download the latest version from [Releases]
+1.Download the latest version from [Releases](https://github.com/Sn8ow/RoxanneScraper/releases/tag/1.4.6)
 
 2.Extract the file using [7Zip](https://www.7-zip.org/download.html) or another program.
 
@@ -18,4 +18,4 @@ Some codes may not work so I added back to the menu again to get the latest code
 
 4.DO NOT DELETE NECESSARY FILES SUCH AS ```Colorful.Console.dll```.
 
-5.More informations in ```Readme.txt``` file in unpack files.
+5.More informations in ```README.md``` file in unpack files.
