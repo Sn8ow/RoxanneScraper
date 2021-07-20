@@ -1,8 +1,8 @@
 # RoxanneScraper
 
-                                    ╦═╗╔═╗═╗ ╦╔═╗╔╗╔╔╗╔╔═╗  ┌─┐┌─┐┬─┐┌─┐┌─┐┌─┐┬─┐
-                                    ╠╦╝║ ║╔╩╦╝╠═╣║║║║║║║╣   └─┐│  ├┬┘├─┤├─┘├┤ ├┬┘ Most Popular Proxy Scaper
-                                    ╩╚═╚═╝╩ ╚═╩ ╩╝╚╝╝╚╝╚═╝  └─┘└─┘┴└─┴ ┴┴  └─┘┴└─
+                                   ╦═╗╔═╗═╗ ╦╔═╗╔╗╔╔╗╔╔═╗  ┌─┐┌─┐┬─┐┌─┐┌─┐┌─┐┬─┐
+                                   ╠╦╝║ ║╔╩╦╝╠═╣║║║║║║║╣   └─┐│  ├┬┘├─┤├─┘├┤ ├┬┘ Most Popular Proxy Scaper
+                                   ╩╚═╚═╝╩ ╚═╩ ╩╝╚╝╝╚╝╚═╝  └─┘└─┘┴└─┴ ┴┴  └─┘┴└─
 # Features
 Roxanne has a nice menu panel and can generate up to 7000 ```HTTP, Socks4 and Socks5 ```codes.
 Some codes may not work so I added back to the menu again to get the latest codes.
